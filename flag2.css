@@ -1,0 +1,28 @@
+.Upper
+{
+    height: 450px;
+    width: 600px;
+    background-color: #231f20;
+    border: 1px solid black;
+    .a
+{
+    background-color: #231f20;
+    
+}
+.b{
+    background-color: #fef200;
+width: 200px;
+height: 450px;
+position: absolute;
+left: 200px; 
+}
+.c
+{
+    background-color: #ed1b24;
+    width:207px;
+height: 450px;
+position: absolute;
+left:400px;
+}
+}
+
